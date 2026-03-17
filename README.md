@@ -39,7 +39,7 @@ Real-tiem=me accident detection system using YOLOv11 for identifying road accide
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/accident-detection-yolov11.git
+git clone https://github.com/nihithvarma/Real-time-accident-detection-system.git
 cd accident-detection-yolov11
 ```
 
